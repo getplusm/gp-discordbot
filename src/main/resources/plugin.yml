@@ -1,0 +1,9 @@
+name: DiscordBotManager
+author: "Xikki"
+main: plusm.gp.discordbot.DiscordBotManagerCore
+api-version: 1.13
+version: 1.0
+softdepend: [PlayerDataManager]
+commands:
+  discord:
+    usage: /discord ...

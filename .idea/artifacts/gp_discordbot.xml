@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gp-discordbot">
+    <output-path>E:/TEST/TestBukkit #0 GP/plugins</output-path>
+    <root id="archive" name="gp-discordbot.jar">
+      <element id="module-output" name="gp-discordbot" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../libs/jackson-databind-2.8.11.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/19.0.0/annotations-19.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../libs/jackson-core-2.8.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/TEST/versions/paper_1.16.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../libs/opus-java-api-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../libs/trove-3.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../libs/okio-2.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-stdlib.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-test.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../libs/commons-collections4-4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../libs/okhttp-4.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../libs/jna-3.0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../libs/jackson-annotations-2.8.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.18/lombok-1.18.18.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/TEST/TestBukkit #0 GP/plugins/gp-pdatamanager.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../libs/nv-websocket-client-2.12.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
